@@ -42,8 +42,7 @@ It includes time-series analysis, horizontal bar plots, interactive choropleth m
 
 ## Clone the repository
 
-bash
-```
+```bash
 git clone https://github.com/Muhammad-Lukman/tb_incidence_analysis.git
 cd tb_incidence_analysis
 pip install -r requirements.txt
